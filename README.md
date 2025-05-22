@@ -1,4 +1,4 @@
-# 🚀 Enhanced GAT Model for Node Classification on Cora Dataset
+# Enhanced GAT Model for Node Classification on Cora Dataset
 
 This project showcases an improved implementation of a **Graph Attention Network (GAT)** for **node classification** on the **Cora citation dataset**, replacing the original **Graph Convolutional Network (GCN)** baseline that was provided by the instructor.
 
@@ -6,7 +6,7 @@ The goal was to go beyond the fixed-weight aggregation of GCN by introducing a d
 
 ---
 
-## 🧠 Technologies Used
+## Technologies Used
 
 | Component       | Configuration                  |
 |----------------|----------------------------------|
@@ -18,7 +18,7 @@ The goal was to go beyond the fixed-weight aggregation of GCN by introducing a d
 
 ---
 
-## 🧪 Project Overview
+## Project Overview
 
 - **Original Setup:** Instructor-provided GCN implementation  
 - **Improved Version:** Custom 2-layer GAT with 8 attention heads  
